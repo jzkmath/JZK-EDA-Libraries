@@ -7,4 +7,4 @@ The Eagle version of this can be found with the Sparkfun Eagle library: https://
 They are the "LOCK" footprints.
 
 There are also Hand soldering footprints with the schematic symbol put on the silkscreen:
-(put it here)
+![Screenshot](https://github.com/jzkmath/JZK-EDA-Libraries/blob/master/KiCAD/Screenshot1.png)
